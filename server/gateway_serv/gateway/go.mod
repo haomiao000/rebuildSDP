@@ -1,6 +1,6 @@
-module gateway
+module icode.baidu.com/baidu/personal-code/rebuildSDP/server/gateway_serv/gateway
 
-go 1.21.6
+go 1.22.5
 
 require github.com/gin-gonic/gin v1.10.0
 
