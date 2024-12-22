@@ -1,4 +1,4 @@
-module github.com/haomiao000/rebuildSDP/server/gateway_serv/gateway
+module github.com/haomiao000/rebuildSDP/server/gateway_serv/1111
 
 go 1.21.6
 
