@@ -1,4 +1,4 @@
-module gateway
+module github.com/haomiao000/rebuildSDP/server/gateway_serv/gateway/biz/router
 
 go 1.21.6
 
